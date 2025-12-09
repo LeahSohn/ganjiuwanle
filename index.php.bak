@@ -1,0 +1,5 @@
+<?php
+// Backup of index.php before overwrite
+// Created automatically by the assistant
+echo "This is a backup of the previous index.php file.\n";
+?>
